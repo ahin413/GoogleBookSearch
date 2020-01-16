@@ -1,5 +1,5 @@
 nav {
-    background-color: rgb(255,143,111)
+    background-color: rgb(209, 111, 255)
 }
 
 a {
@@ -11,8 +11,8 @@ a {
     color: white
 }
 
-.navbar-brand {
-    font-size: 35px;
+.navText {
+    font-size: 55px;
 }
 
 .nav-item {
